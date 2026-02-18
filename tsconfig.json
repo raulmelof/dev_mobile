@@ -8,6 +8,11 @@
       ]
     }
   },
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs"
+    }
+  },
   "include": [
     "**/*.ts",
     "**/*.tsx",
